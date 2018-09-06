@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18185" started-at="2018-09-06T09:24:47Z" finished-at="2018-09-06T09:25:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18185" started-at="2018-09-06T09:24:47Z" finished-at="2018-09-06T09:25:06Z">
+      <class name="testscripts.Assignment1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testscripts.Assignment1@7a35b0f5]" name="beforeTest" is-config="true" duration-ms="9" started-at="2018-09-06T09:24:47Z" finished-at="2018-09-06T09:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="assignment1()[pri:0, instance:testscripts.Assignment1@7a35b0f5]" name="assignment1" duration-ms="7737" started-at="2018-09-06T09:24:47Z" finished-at="2018-09-06T09:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignment1 -->
+        <test-method status="PASS" signature="navigate()[pri:1, instance:testscripts.Assignment1@7a35b0f5]" name="navigate" duration-ms="10221" started-at="2018-09-06T09:24:55Z" finished-at="2018-09-06T09:25:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testscripts.Assignment1@7a35b0f5]" name="afterTest" is-config="true" duration-ms="195" started-at="2018-09-06T09:25:05Z" finished-at="2018-09-06T09:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testscripts.Assignment1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
